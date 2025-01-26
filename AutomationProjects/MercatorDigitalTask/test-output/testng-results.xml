@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-25T21:07:27 GMT" name="Suite" finished-at="2025-01-25T21:07:46 GMT" duration-ms="19143">
+    <groups>
+    </groups>
+    <test started-at="2025-01-25T21:07:27 GMT" name="Test" finished-at="2025-01-25T21:07:46 GMT" duration-ms="19143">
+      <class name="tests.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.LoginTest@3ad2e17]" started-at="2025-01-25T21:07:27 GMT" name="setup" finished-at="2025-01-25T21:07:32 GMT" duration-ms="4510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidCrendetials()[pri:0, instance:tests.LoginTest@3ad2e17]" started-at="2025-01-25T21:07:32 GMT" name="loginWithValidCrendetials" finished-at="2025-01-25T21:07:35 GMT" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCrendetials -->
+        <test-method signature="findHighestPriceProduct()[pri:1, instance:tests.LoginTest@3ad2e17]" started-at="2025-01-25T21:07:35 GMT" name="findHighestPriceProduct" finished-at="2025-01-25T21:07:35 GMT" duration-ms="367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findHighestPriceProduct -->
+        <test-method signature="verifyAddToCart()[pri:2, instance:tests.LoginTest@3ad2e17]" started-at="2025-01-25T21:07:36 GMT" name="verifyAddToCart" finished-at="2025-01-25T21:07:46 GMT" duration-ms="10144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.LoginTest@3ad2e17]" started-at="2025-01-25T21:07:46 GMT" name="tearDown" finished-at="2025-01-25T21:07:46 GMT" duration-ms="227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
